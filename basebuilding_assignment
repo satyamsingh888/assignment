@@ -1,0 +1,23 @@
+1.  The internet is a global network of billions of computer and other electronic devices.
+    with the internet, its possible to access almost any information, communication with anyone else 
+    in the world, and do much more.
+
+
+2.  A Web Browser is a software application used to access information on the world Wide Web
+    is called a Web Browser.
+    When a user request some information, the web browser fetches the data from a web server and 
+    then display the webpage on the users screen.
+
+
+3.  A brouser engine can be thought of as the heart of a brouser, it helps to present the 
+    content of a website after you hit the URL of the web address you wish to visit. it does
+    so by understandind the HTML,CSS,JavaScript weitten on your web page.
+
+
+4.  A static website is made up of a fixed number of pre-bult files stored on a web server.
+    These files are writtn in HTML,CSS,JavaScript,  which are called "client-side" language because they
+    excuate in the users web browser.
+
+
+5.   Dyanamic Website is a Website containing data that can be changeable. it uses clint-side or server     scripting to generate nutable content. Like a static website, it also contain HTML data. Dynamic website
+    are those website that websites that change the content or layout with every request to the webserver.99
