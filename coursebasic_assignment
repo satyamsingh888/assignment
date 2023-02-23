@@ -1,0 +1,21 @@
+1.   HTML stands for Hyper Text Markup Language
+     HTML is the standard markup language for creating Web pages
+     HTML describes the structure of a Web page
+     HTML consists of a series of elements
+     HTML elements tell the browser how to display the content
+     HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc
+
+
+2.  
+    CSS stands for Cascading Style Sheets
+    CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+    CSS saves a lot of work. It can control the layout of multiple web pages all at once
+    External stylesheets are stored in CSS files
+
+
+3.  
+   In comparison to Microsoft, who had Visual C++ for professional programmers and a Visual Basic scripting language    for amateurs, Netscape wanted a simpler companion script to Java that mimicked what Microsoft was offering. This is    where Brendan Eich, father of JavaScript, comes into the picture.
+
+
+4.
+   JavaScript was invented by Brendan Eich in 1995. It was developed for Netscape 2, and became the ECMA-262 standard in 1997. After Netscape handed JavaScript over to ECMA, the Mozilla foundation continued to develop JavaScript for the Firefox browser. Mozilla's latest version was 1.8.5.
