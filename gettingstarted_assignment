@@ -1,0 +1,31 @@
+"Hello, World!" programs are often the first a student learns to write in a given language, and they can also be used as a sanity check to ensure computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it.
+
+
+2.  The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers. You can use comments to explain your code, which can help you when you edit the source code at a later date. This is especially useful if you have a lot of code.
+<!-- for using comment just press ---- ctrl+/ --> in windows
+
+
+
+3.  Elements:--
+    
+    The HTML element is everything from the start tag to the end tag:
+<tagname>Content goes here...</tagname> 
+    
+    Tag:--
+   
+    HTML tags are like keywords which defines that how web browser will format and display the content. With the help of tags, a web browser can distinguish between an HTML content and a simple content. HTML tags contain three main parts: opening tag, content and closing tag. But some HTML tags are unclosed tags.
+   
+    Attribute:--
+    
+    a.All HTML elements can have attributes
+    b.Attributes provide additional information about elements
+    c.Attributes are always specified in the start tag
+    d.Attributes usually come in name/value pairs like: name="value"
+
+    While the elements tell the browser what to display, the attributes define how they will behave. The tags mark the beginning and the end of an element. They may not be necessary for some elements, especially the closing tags. Equally important, the attributes are only within the opening tags....
+
+4.  An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon      ( ; ). Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces).
+
+
+
+
