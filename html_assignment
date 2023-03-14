@@ -1,0 +1,74 @@
+1.  inline elemnet--
+    
+     Inline elements are those which only occupy the space bounded by the tags defining the element, 
+     instead of breaking the flow of the content. Note: An inline element does not start on a new 
+     line and only takes up as much width as necessary.
+     
+     <a>
+    <abbr>
+    <acronym>
+    <b>
+    <bdo>
+    <big>
+    <br>
+    <button>
+        these are some inline elements.
+   
+   block type element--
+   
+   A block-level element always starts on a new line, 
+   and the browsers automatically add some space (a margin) before and after the element.
+   A block-level element always takes up the full width available 
+   (stretches out to the left and right as far as it can).
+
+     <dt>
+    <fieldset>
+    <figcaption>
+    <figure>
+    <footer>
+    <form>
+    <h1>-<h6>
+    <header>
+    <hr>
+    <li>
+     <main>
+     <nav>
+     <noscript>
+    <ol>
+    <p>
+     
+    these are some example of block level element.
+
+
+2.  The HTML <img> tag is used to embed an image in a web page. 
+Images are not technically inserted into a web page; 
+images are linked to web pages. The <img> tag creates a holding space for the referenced image. 
+The <img> tag is empty, it contains attributes only, and does not have a closing tag.    
+    
+
+3.  There are three types of list
+    a. Unorderd list
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+      </ul> 
+    b. Orderd list
+    <ol>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+      </ol> 
+    c. Description list
+    <dl>
+        <dt>Coffee</dt>
+        <dd>- black hot drink</dd>
+        <dt>Milk</dt>
+        <dd>- white cold drink</dd>
+      </dl> 
+      
+4.  Use the <a> element to define a link.
+    Use the href attribute to define the link address.
+    Use the target attribute to define where to open the linked document.
+    Use the <img> element (inside <a> ) to use an image as a link.     
+<a href="http://amazone.com">go to amazone</a>
