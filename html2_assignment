@@ -1,0 +1,49 @@
+1.   HTML table tag is used to display data in tabular form (row * column). There can be many columns in a row.We can create a table to display data in tabular form, using <table> element, with the help of <tr> , <td>, and <th> elements.
+In Each table, table row is defined by <tr> tag, table header is defined by <th>, and table data is defined by <td> tags.
+HTML tables are used to manage the layout of the page e.g. header section, navigation bar, body content, footer section etc. But it is recommended to use div tag over table to manage the layout of the page .
+
+
+2.  HTML5 introduced 5 most popular media element tags i.e. <audio>, <video>, <source>, <embed>, <track>. This media element tags changed the entire development using HTML.
+
+here are some example of media tags--
+
+Media Tags:
+<audio>: It is an inline element that is used to embed sound files into a web page.
+<video>:  It is used to embed video files into a web page.
+<source>: It is used to attach multimedia files like audio, video, and pictures.
+<embed>: It is used for embedding external applications which are generally multimedia content like audio orvideo into an HTML document.
+<track>:  It specifies text tracks for media components audio and video.
+
+
+3.  GET is used to request data from a specified resource.
+    Note that the query string (name/value pairs) is sent in the URL of a GET request.
+
+    POST is used to send data to a server to create/update a resource.
+    The data sent to the server with POST is stored in the request body of the HTTP request.
+
+
+4.  Here are some list of input type in html--
+
+    <input type="button">
+    <input type="checkbox">
+    <input type="color">
+    <input type="date">
+    <input type="datetime-local">
+    <input type="email">
+    <input type="file">
+    <input type="hidden">
+    <input type="image">
+    <input type="month">
+    <input type="number">
+    <input type="password">
+    <input type="radio">
+    <input type="range">
+    <input type="reset">
+    <input type="search">
+    <input type="submit">
+    <input type="tel">
+    <input type="text">
+    <input type="time">
+    <input type="url">
+    <input type="week">
+
