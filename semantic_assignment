@@ -1,0 +1,49 @@
+1.   many types of features add on in html5
+     here are some example---
+        Video and Audio Features 
+   a. Header and Footer
+   b. Input tag kinds have been expanded.
+   c. Figure and figcaption
+   d. Placeholders 
+   e. Preload Videos 
+   f. Controlling the display
+   g. Regular Expressions 
+   h. Adaptability
+   i. Elements that appear inline
+   j. Support for Dynamic Pages
+   k. Email as a property
+   l. Cryptographic Nonces
+   m. Reverse Links 
+   n. Images with a width of zero
+   o. Canvas in HTML5 
+   p. Conclusion
+   q. FAQs
+   r. Additional Resources
+
+
+2.  Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. 
+    
+    In HTML there are some semantic elements that can be used to define different parts of a web page
+    some example of symantic tag--
+        <article>
+    <aside>
+    <details>
+    <figcaption>
+    <figure>
+    <footer>
+    <header>
+    <main>
+    <mark>
+    <nav>
+    <section>
+    <summary>
+    <time>
+
+3.  Some basic advantage of symantic tag
+   a. The semantic HTML tags help the search engines and other user devices to determine the
+     importance and context of web pages.
+   b. The pages made with semantic elements are much easier to read.
+   c. It has greater accessibility. It offers a better user experience.    
+
+
+
