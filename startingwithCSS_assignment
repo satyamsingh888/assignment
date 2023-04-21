@@ -1,0 +1,22 @@
+1.   CSS is the language for describing the presentation of Web pages, including colors,
+    layout, and fonts. It allows one to adapt the presentation to different types of devices, 
+    such as large screens, small screens, or printers. 
+    CSS is independent of HTML and can be used with any XML-based markup language.
+
+      
+   a. CSS stands for Cascading Style Sheets
+   b.CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+   c. CSS saves a lot of work. It can control the layout of multiple web pages all at once
+   d. External stylesheets are stored in CSS files
+
+
+2.  There are three method to bring css into html file--
+    a. Inline CSS
+    b. External CSS
+    c. Internal CSS
+
+
+3.  Specificity is the algorithm used by browsers to determine the CSS declaration 
+    that is the most relevant to an element, which in turn, determines the property 
+    value to apply to the element.    
+
